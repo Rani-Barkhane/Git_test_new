@@ -1,0 +1,19 @@
+[
+  {
+    "id": "01281ead-366b-4185-851c-ef60336855d8",
+    "username": "Rani Barkhane",
+    "age": 25,
+    "hobbies": [
+      "Reading",
+      "Coding"
+    ]
+  },
+  {
+    "id": "675d464d-fa96-4b27-a560-69f3ebab8738",
+    "username": "Manisha barkhane",
+    "age": 23,
+    "hobbies": [
+      "Playing"
+    ]
+  }
+]
